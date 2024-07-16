@@ -31,7 +31,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 @ActiveProfiles("test")
 @SuppressWarnings("all")
 class ConsultaControllerTest {
-
+// test consulta controller
     @Autowired
     private MockMvc mvc;
 
