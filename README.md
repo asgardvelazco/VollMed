@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <h1>documente-teste-y-prepare-api-para-deploy</h1>
 
 proyecto: <h2>spring-boot-3</h2>
@@ -32,3 +33,7 @@ links
 <a href="https://www.figma.com/file/vgn35i1ErivIN8LJYEqxGZ/Untitled?node-id=0-223&t=YNrx4H2YyxEWXQFb-0">modelo en FiGMA</a>
 
 
+=======
+# VollMed
+Voll Med
+>>>>>>> 7a56c6b655d8e9b1287b6720413dcf47c4003d39
